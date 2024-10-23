@@ -21,7 +21,24 @@ Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
 
+### UML DIAGRAMS :
+## USECASE DIAGRAM :
+![usecase p](https://github.com/user-attachments/assets/82b689df-fd7e-4bb0-bfe8-a8790c9fde21)
 
+## CLASS DIAGRAM :
+![Class pass](https://github.com/user-attachments/assets/5412d8f8-83fe-4104-9c9d-324bec7800bb)
+
+## SEQUENCE DIAGRAM ;
+![seq p](https://github.com/user-attachments/assets/6a98b034-96c6-4925-9adc-ed46507ed007)
+
+## PACKAGE DIAGRAM :
+![package p](https://github.com/user-attachments/assets/0be2dd91-5b0d-457b-8512-1d608eefc39d)
+
+## COMMUNCICATION DIAGRAM :
+![communication p](https://github.com/user-attachments/assets/fb3d9d04-6fd4-48c1-a890-9e579b926af4)
+
+## ACTIVITY DIAGRAM :
+![activity passport](https://github.com/user-attachments/assets/b1884806-7a74-449a-b1bd-1cfc1fac05aa)
 
 
 
